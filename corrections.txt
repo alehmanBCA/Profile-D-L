@@ -1,0 +1,4 @@
+- Gave everything that I will use in style.css tag names
+- Removed the bottom nav bar
+- No whitespace appeared on my computer
+- Got rid of extra images and slapped them next to my hobbies
